@@ -101,10 +101,10 @@
 		DD20346620602E2B00E51487 /* gameflash */ = {
 			isa = PBXGroup;
 			children = (
+				DD20346720602E2B00E51487 /* AppDelegate.swift */,
 				DD2034992061A09100E51487 /* Question.swift */,
 				DD203495206046BF00E51487 /* GuessViewController.swift */,
 				DD203497206046E200E51487 /* CreateQuestionViewController.swift */,
-				DD20346720602E2B00E51487 /* AppDelegate.swift */,
 				DD20346B20602E2B00E51487 /* Main.storyboard */,
 				DD20347020602E2B00E51487 /* LaunchScreen.storyboard */,
 				DD20347320602E2B00E51487 /* Info.plist */,
